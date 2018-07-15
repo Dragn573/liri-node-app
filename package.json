@@ -18,6 +18,8 @@
   },
   "homepage": "https://github.com/Dragn573/liri-node-app#readme",
   "dependencies": {
+    "dotenv": "^6.0.0",
+    "node-spotify-api": "^1.0.7",
     "omdb-client": "^2.0.0",
     "request": "^2.87.0",
     "spotify": "^0.3.0",
